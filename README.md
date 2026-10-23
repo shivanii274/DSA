@@ -1,2 +1,2 @@
 # DSA
-Data Structures and Algorithms practice and interview preparation
+Data Structures and Algorithms practice 
